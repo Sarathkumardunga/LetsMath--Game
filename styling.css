@@ -4,6 +4,8 @@ html{
     background : -o-radial-gradient(circle, #fff, #ccc);
     background : -moz-radial-gradient(circle, #fff, #ccc);
     background : -webkit-radial-gradient(circle, #fff, #ccc);
+    background-image: url("dot.png");
+    background-size: cover;
 }
 
 #container{
